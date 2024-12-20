@@ -1,3 +1,4 @@
+![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/PraveenTuety/Praveen-Kumar-Portfolio-/blob/main/Brown%20Minimalist%20YouTube%20Banner.png)
 # Hi, I'm Praveen Kumar! 👋  
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F79C22&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+passionate+iOS+Developer!;Turning+ideas+into+beautiful+apps!)  
