@@ -1,7 +1,7 @@
 ![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/PraveenTuety/Praveen-Kumar-Portfolio-/blob/main/Brown%20Minimalist%20YouTube%20Banner.png)
 # Hi, I'm Praveen Kumar! 👋  
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F79C22&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+passionate+iOS+Developer!;Turning+ideas+into+beautiful+apps!)  
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F79C22&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Experience+iOS+Applications!;Transform+concepts+into+View!)
 
 I'm an **iOS Developer** passionate about building elegant and functional mobile applications. With a background in **Computer Science and Engineering** and **iOS development**, I enjoy solving problems and turning ideas into apps.
 
